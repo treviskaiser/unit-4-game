@@ -1,0 +1,8 @@
+.picture {
+    height: 150 px;
+    width: 150 px;
+}
+
+body {
+    background-image: url("crossline-lines.png");
+}
